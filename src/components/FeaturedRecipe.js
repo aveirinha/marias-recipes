@@ -2,9 +2,9 @@ import React from "react"
 import Link from "gatsby-link"
 import Img from "gatsby-image"
 
-const FeaturedBlog = ({ data }) => {
+const FeaturedRecipe = ({ data }) => {
   return (
-    <div className="featured-blog-container">
+    <div className="featured-recipe-container">
       {data.edges
         .filter(({ node }) => node.frontmatter.topic === "feature")
         .map(({ node }) => (
@@ -13,16 +13,16 @@ const FeaturedBlog = ({ data }) => {
             to={node.fields.slug}
             style={{ textDecoration: "none", color: "inherit" }}
           >
-            <div className="featured-blog-card">
+            <div className="featured-recipe-card">
               <Img
-                className="featured-blog-thumbnail"
+                className="featured-recipe-thumbnail"
                 sizes={node.frontmatter.image.childImageSharp.sizes}
               />
-              <div className="featured-blog-description">
-                <h3 className="featured-blog-title">
+              <div className="featured-recipe-description">
+                <h3 className="featured-recipe-title">
                   {node.frontmatter.title}
                 </h3>
-                <p className="featured-blog-excerpt">{node.excerpt}</p>
+                <p className="featured-recipe-excerpt">{node.excerpt}</p>
                 <p className="featured-read-more">
                   Read Recipe - {node.frontmatter.read}
                 </p>
@@ -34,4 +34,4 @@ const FeaturedBlog = ({ data }) => {
   )
 }
 
-export default FeaturedBlog
+export default FeaturedRecipe

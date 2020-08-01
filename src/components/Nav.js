@@ -15,7 +15,7 @@ class Nav extends React.Component {
   }
 
   componentDidMount() {
-    if (window.location.href.includes("blogs")) {
+    if (window.location.href.includes("recipes")) {
       this.setState({
         home_active: false,
         about_active: false,

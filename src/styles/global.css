@@ -1,12 +1,12 @@
-/* INDEXPAGE - BLOGCARDS ============================= */
-.blog-container {
+/* INDEXPAGE - RECIPECARDS ============================= */
+.recipe-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.blog-card {
+.recipe-card {
   display: inline-block;
   margin-bottom: 2.5em;
   box-shadow: 0px 0.5rem 2rem rgba(0, 0, 0, 0.05);
@@ -14,62 +14,62 @@
   width: 20em;
 }
 
-.blog-description {
+.recipe-description {
   background-color: white;
 }
 
-/* Featured Blog Card ================ */
-.featured-blog-container {
+/* Featured Recipe Card ================ */
+.featured-recipe-container {
   margin-bottom: 4em;
   margin-top: 3em;
 }
 
-.featured-blog-description {
+.featured-recipe-description {
   color: white;
   position: absolute;
   transform: translateY(-120%);
   margin: 0 30% 0 7%;
 }
 
-.featured-blog-thumbnail {
+.featured-recipe-thumbnail {
   height: auto;
   object-fit: cover;
   width: 100%;
   height: 600px;
 }
 
-.featured-blog-title {
+.featured-recipe-title {
   font-size: 2em;
 }
 
-.featured-blog-excerpt {
+.featured-recipe-excerpt {
   font-size: 1.2em;
 }
 /* =================================== */
 
-.blog-thumbnail {
+.recipe-thumbnail {
   object-fit: cover;
   width: 100%;
   height: 250px;
 }
 
-.blog-description {
+.recipe-description {
   padding: 1em;
 }
 
-.blog-title {
+.recipe-title {
   font-size: 1.3em;
   color: #18315c;
   margin-bottom: 10px;
 }
 
-.blog-date-topic {
+.recipe-date-topic {
   color: #a9a1b0;
   margin-bottom: 4px;
   font-size: 0.8em;
 }
 
-.blog-excerpt {
+.recipe-excerpt {
   font-size: 0.7em;
   margin-bottom: 2px;
 }
@@ -136,7 +136,7 @@
   transition: background-color 0.5;
 }
 
-/* navbar for blog posts  */
+/* navbar for recipe posts  */
 .post-nav-container {
   padding: 3% 5% 2% 5%;
   font-size: 25px;
@@ -278,15 +278,15 @@
     padding-left: 4em;
   }
 
-  .featured-blog-description {
+  .featured-recipe-description {
     transform: translateY(-100%);
   }
 
-  .featured-blog-title {
+  .featured-recipe-title {
     font-size: 1.6em;
   }
 
-  .featured-blog-excerpt {
+  .featured-recipe-excerpt {
     font-size: 1em;
   }
 
@@ -306,7 +306,7 @@
     font-size: 18px;
   }
 
-  .blog-card {
+  .recipe-card {
     width: 100%;
   }
 
@@ -315,16 +315,16 @@
     padding-left: 1em;
   }
 
-  .featured-blog-container {
+  .featured-recipe-container {
     margin-bottom: 4em;
     margin-top: 2rem;
   }
 
-  .featured-blog-title {
+  .featured-recipe-title {
     font-size: 1em;
   }
 
-  .featured-blog-excerpt {
+  .featured-recipe-excerpt {
     font-size: 0.7em;
   }
 
@@ -332,7 +332,7 @@
     font-size: 1em;
   }
 
-  .featured-blog-thumbnail {
+  .featured-recipe-thumbnail {
     height: 450px;
   }
 
