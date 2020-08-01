@@ -1,14 +1,14 @@
 import React from "react"
 import SEO from "../components/Seo"
 import Nav from "../components/Nav"
-import ppl from "../images/woman.jpg"
+import mj from "../images/maria-jump.jpg"
 
 const AboutPage = () => (
   <div>
     <SEO title="About" />
     <Nav />
     <div className="bio-container">
-      <img className="bio-image" src={ppl} alt="" />
+      <img className="bio-image" src={mj} alt="" />
       <div className="containy">
         <h1 className="name">Hi I'm Maria</h1>
         <h1 className="short-bio">Amazing data scientist</h1>

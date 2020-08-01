@@ -24,7 +24,7 @@ const FeaturedRecipe = ({ data }) => {
                 </h3>
                 <p className="featured-recipe-excerpt">{node.excerpt}</p>
                 <p className="featured-read-more">
-                  Read Recipe - {node.frontmatter.read}
+                  {node.frontmatter.cookTime} cooking time
                 </p>
               </div>
             </div>

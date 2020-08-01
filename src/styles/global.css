@@ -211,12 +211,14 @@
   height: 550px;
   position: relative;
   text-align: left;
+  overflow: hidden;
 }
 
 .bio-image {
   object-fit: cover;
-  width: 100%;
-  margin: 0px;
+  width: 190vw;
+  filter: blur(0.3vw);
+  transform: scale(1.12);
 }
 
 .containy {
@@ -224,12 +226,10 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  /* border: red 2px solid; */
-  margin-left: 20%;
 }
 
 .containy h1 {
-  color: #bac0c0;
+  color: white;
 }
 
 .name {

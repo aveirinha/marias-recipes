@@ -1,7 +1,7 @@
 ---
 title: "Lasagne"
 date: "23rd July 2020"
-read: "1hr cooking time"
+cookTime: "1hr"
 topic: "feature"
 image: ../../images/lasagne.jpg
 ---

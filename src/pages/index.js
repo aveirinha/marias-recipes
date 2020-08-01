@@ -32,7 +32,7 @@ export const query = graphql`
           frontmatter {
             title
             date
-            read
+            cookTime
             topic
             image {
               childImageSharp {

@@ -1,7 +1,7 @@
 ---
 title: "Museum Hopping 101"
-date: "May 1, 2020"
-read: "1 min read"
+date: "August 1, 2020"
+cookTime: "30min"
 topic: "ART"
 image: "../../images/museum.jpg"
 ---
