@@ -140,7 +140,7 @@
 .post-nav-container {
   padding: 3% 5% 2% 5%;
   font-size: 25px;
-  box-shadow: 0 6px 6px -6px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0 1rem rgba(0, 0, 0, 0.03);
 }
 
 .post-nav-container ul {
@@ -193,8 +193,14 @@
   float: right;
 }
 
-.svg-icon {
-  margin-left: 40px;
+.social-icons-container > a {
+  opacity: 0.4;
+  transition: opacity 200ms ease;
+  padding: 0 0.65rem;
+}
+
+.social-icons-container > a:hover {
+  opacity: 1;
 }
 
 .copyright {

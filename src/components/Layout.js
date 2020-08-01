@@ -6,19 +6,22 @@ import "./layout.css"
 
 const Layout = ({ children }) => {
   return (
-    <div className="layout-container">
+    <>
       <Nav />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 1300,
-          paddingTop: 0,
-        }}
-      >
-        <main>{children}</main>
-        <Footer />
+
+      <div className="layout-container">
+        <div
+          style={{
+            margin: `0 auto`,
+            maxWidth: 1300,
+            paddingTop: 0,
+          }}
+        >
+          <main>{children}</main>
+          <Footer />
+        </div>
       </div>
-    </div>
+    </>
   )
 }
 
