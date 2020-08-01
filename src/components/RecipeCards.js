@@ -20,12 +20,12 @@ const RecipeCards = ({ data }) => {
               />
               <div className="recipe-description">
                 <p className="recipe-date-topic">
-                  {node.frontmatter.date} &nbsp;&nbsp; ———— &nbsp;&nbsp;
+                  {node.frontmatter.date}&nbsp;&nbsp; / &nbsp;&nbsp;
                   {node.frontmatter.topic}
                 </p>
                 <h3 className="recipe-title">{node.frontmatter.title}</h3>
                 <p className="recipe-excerpt">{node.excerpt}</p>
-                <p className="read-more"> ——— Read More</p>
+                <p className="read-more"> — Read More</p>
               </div>
             </div>
           </Link>
