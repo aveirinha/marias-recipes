@@ -9,16 +9,16 @@ const Footer = () => {
       <hr className="horizontal-line" />
       <div className="footer-content-container">
         <div className="copyright">
-          © 2020 &nbsp;
+          © {`${new Date().getFullYear()}`} &nbsp;
           <Link to="/" style={{ textDecoration: "none", color: "black" }}>
             Recipes by Maria
           </Link>
         </div>
         <div className="social-icons-container">
-          <a href="https://twitter.com/">
+          <a href="https://twitter.com/mariamsaveiro">
             <TwitterSVG />
           </a>
-          <a href="https://www.instagram.com/">
+          <a href="https://www.instagram.com/aveirinha/">
             <InstagramSVG />
           </a>
         </div>
