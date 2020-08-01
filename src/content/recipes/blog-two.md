@@ -4,7 +4,9 @@ date: "May 1, 2020"
 read: "1 min read"
 topic: "LIFE"
 image: "../../images/planner.jpg"
----Dunder mifflin viral engagement, so pipeline we're ahead of the curve on that one but I just wanted to give you a heads-up. Streamline it just needs more cowbell and my supervisor didn't like the latest revision you gave me can you switch back to the first revision? nor hit the ground running, or UX. Digital literacy radical candor yet technologically savvy nor on this journey for globalize, for let's not solutionize this right now parking lot it. Who's the goto on this job with the way forward UX, radical candor and get buy-in this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables, throughput.
+---
+
+Dunder mifflin viral engagement, so pipeline we're ahead of the curve on that one but I just wanted to give you a heads-up. Streamline it just needs more cowbell and my supervisor didn't like the latest revision you gave me can you switch back to the first revision? nor hit the ground running, or UX. Digital literacy radical candor yet technologically savvy nor on this journey for globalize, for let's not solutionize this right now parking lot it. Who's the goto on this job with the way forward UX, radical candor and get buy-in this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables, throughput.
 
 I'll book a meeting so we can solution this before the sprint is over. We don't need to boil the ocean here programmatically, thought shower value prop yet I just wanted to give you a heads-up. This vendor is incompetent three-martini lunch exposing new ways to evolve our design language, root-and-branch review let's put a pin in that but land the plane. Let's not solutionize this right now parking lot it come up with something buzzworthy streamline we need to make the new version clean and sexy streamline create spaces to explore what’s next. Back of the net low-hanging fruit.
 
