@@ -1,9 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 
-class Nav extends React.Component  {
+class Nav extends React.Component {
   constructor() {
-    super();
+    super()
     this.state = {
       home_active: true,
       about_active: false,
@@ -13,10 +13,10 @@ class Nav extends React.Component  {
       post_nav_container: "nav-container",
     }
   }
-  
+
   componentDidMount() {
-    if(window.location.href.includes("blogs")) {
-      this.setState({ 
+    if (window.location.href.includes("blogs")) {
+      this.setState({
         home_active: false,
         about_active: false,
         is_post: true,
@@ -24,9 +24,8 @@ class Nav extends React.Component  {
         about_classname: "nav-item",
         post_nav_container: "post-nav-container",
       })
-    }
-    else if(window.location.href.includes("about")) {
-      this.setState({ 
+    } else if (window.location.href.includes("about")) {
+      this.setState({
         home_active: false,
         about_active: true,
         is_post: false,
@@ -36,12 +35,14 @@ class Nav extends React.Component  {
       })
     }
   }
-  
+
   render() {
-    const { home_classname, about_classname, post_nav_container } = this.state; 
-    return(
+    const { home_classname, about_classname, post_nav_container } = this.state
+    return (
       <div className={post_nav_container} id="nav-bar">
-        <Link to="/" className="nav-brand">Amelie</Link>
+        <Link to="/" className="nav-brand">
+          Recipes by Maria
+        </Link>
         <ul className="nav-item-container">
           <li className={home_classname} id="nav-home">
             <Link to="/">Home</Link>
@@ -53,9 +54,8 @@ class Nav extends React.Component  {
           </li>
         </ul>
       </div>
-    );
+    )
   }
 }
 
-
-export default Nav;
+export default Nav

@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter blog template built with Gatsby",
+  "name": "maria-recipes",
+  "description": "A place to keep recipes so I don't forget them",
   "version": "0.1.0",
-  "author": "Toby Au, Jessica Adjei",
+  "author": "Maria Aveiro, James Vickery",
   "dependencies": {
     "gatsby": "^2.16.1",
     "gatsby-image": "^2.2.29",

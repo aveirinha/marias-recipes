@@ -1,30 +1,32 @@
 <h1 align="center">
-  Amelie - Blog Template 
+  Recipes by Maria - Blog Template 
 </h1>
 
 ## 👁 Demo
 
-https://amelie-blog.netlify.com/
+https://Recipes by Maria-blog.netlify.com/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a52f639-94f2-4399-990f-1c154b856b22/deploy-status)](https://app.netlify.com/sites/amelie-blog/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a52f639-94f2-4399-990f-1c154b856b22/deploy-status)](https://app.netlify.com/sites/Recipes by Maria-blog/deploys)
 
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI  
-```npm install -g gatsby-cli```
+   `npm install -g gatsby-cli`
 
-2. Clone Amelie repository  
-```https://github.com/tobyau/Amelie.git```
+2. Clone Recipes by Maria repository  
+   `https://github.com/tobyau/Recipes by Maria.git`
 
-3. Navigate into the site directory and install dependencies 
+3. Navigate into the site directory and install dependencies
+
 ```
-cd Amelie
+cd Recipes by Maria
 npm install
 ```
 
 ## 🚀 Running for Development
 
 1.  **Start developing.**
+
     ```
     gatsby develop
     ```
@@ -78,4 +80,3 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
-

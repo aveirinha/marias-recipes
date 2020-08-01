@@ -4,7 +4,6 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const path = require(`path`)
 
@@ -23,7 +22,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   return new Promise((resolve, reject) => {
-    graphql(`{
+    graphql(`
+      {
         allMarkdownRemark {
           edges {
             node {
@@ -33,7 +33,8 @@ exports.createPages = ({ graphql, actions }) => {
             }
           }
         }
-      }`).then(result => {
+      }
+    `).then(result => {
       result.data.allMarkdownRemark.edges.forEach(({ node }) => {
         createPage({
           path: node.fields.slug,
