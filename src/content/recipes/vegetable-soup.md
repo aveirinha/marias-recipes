@@ -1,7 +1,7 @@
 ---
 title: "Vegetable Soup"
 date: "6th August 2020"
-cookTime: "1hr 50 min"
+cookTime: "1hr"
 topic: "feature"
 image: ../../images/soup.jpg
 ---
@@ -11,13 +11,13 @@ Swap any ingredient for other available
 
 ## Ingredients
 
-- 1 Large Onion
+- 1 Large Onion, in quarters
 - 2 Garlic Cloves
-- 1 leek
-- 4 medium potatoes
-- 1 courgette
+- 1 leek, sliced
+- 4 medium potatoes, sliced
+- 1 courgette, sliced
 - 1 vegetable stock cube
-- 3/4 carrots
+- 3/4 carrots, sliced
 - 50g Frozen Peas
 - Olive Oil
 - Salt
