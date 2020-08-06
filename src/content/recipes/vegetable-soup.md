@@ -2,7 +2,7 @@
 title: "Vegetable Soup"
 date: "6th August 2020"
 cookTime: "1hr"
-topic: "feature"
+topic: "Soup"
 image: ../../images/soup.jpg
 ---
 
