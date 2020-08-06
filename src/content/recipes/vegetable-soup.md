@@ -3,7 +3,7 @@ title: "Vegetable Soup"
 date: "6th August 2020"
 cookTime: "1hr 50 min"
 topic: "feature"
-image: ../../images/lasagne.jpg
+image: ../../images/soup.jpg
 ---
 
 This soup can be made from fresh or frozen vegetables!
