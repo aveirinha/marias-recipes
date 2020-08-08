@@ -15,9 +15,10 @@ Swap any ingredient for other available
 - 1 Lemon
 - 1 Bay Leaf
 - 2 Garlic Cloves
-- 3tbsp Red Pepper paste
-- 200ml lager
-- 2tbsp olive oil
+- 3tbsp Red Pepper Paste
+- 200ml beer (lager preferably)
+- 2tbsp Olive Oil
+- 2tbsp Peri Peri Sauce
 
 ## Method
 
