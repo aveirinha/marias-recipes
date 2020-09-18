@@ -32,4 +32,3 @@ image: "../../images/stew.jpg"
 3. Add the large onion, bay leaf, carrots, leek and celery and set it to **1 min/Temp. 100/Speed 3**.
 4. Add the Guinness, water, vegetable stock cube and season it to taste. Set the ChefBot to **50 min/Temp. 120/Speed 1**.
 5. Check if the beef is tender, if not, cook for an extra 10 minutes. Serve with mashed potatoes.
-
