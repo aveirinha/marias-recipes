@@ -1,0 +1,29 @@
+.nav-container {
+  padding: 1.25rem 1rem;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+
+  .nav-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .nav-brand {
+      font-size: 1.45rem;
+    }
+
+    .nav-item-container {
+      display: flex;
+      flex-direction: row;
+      margin-left: auto;
+
+      > * {
+        margin-left: 1.25rem;
+      }
+    }
+  }
+}

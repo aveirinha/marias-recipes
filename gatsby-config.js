@@ -13,6 +13,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-plugin-sass",
+            options: {
+              data: `@import "${__dirname}/src/styles";`,
+            },
+          },
+          {
             resolve: "gatsby-remark-relative-images",
           },
           {
