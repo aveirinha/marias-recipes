@@ -1,0 +1,45 @@
+.about-page {
+  .bio-container {
+    position: relative;
+    width: 100%;
+
+    .bio-image-container {
+      overflow: hidden;
+
+      .bio-image {
+        width: calc(100% + 10px);
+        height: 80vh;
+        object-fit: cover;
+        z-index: -1;
+        filter: blur(4px);
+        margin: -5px -10px -10px -5px;
+      }
+    }
+
+    .intro-container {
+      height: 80vh;
+      position: absolute;
+      top: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 100%;
+      color: white;
+
+      .name {
+        text-transform: uppercase;
+        font-size: 3rem;
+      }
+
+      .short-bio {
+        font-size: 1.5rem;
+      }
+    }
+  }
+
+  .biography {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+}

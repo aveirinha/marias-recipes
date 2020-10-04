@@ -1,0 +1,22 @@
+.recipe-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  grid-gap: 2rem;
+  align-items: stretch;
+
+  .recipe-card {
+    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.05);
+    text-decoration: none;
+    color: inherit;
+
+    .recipe-thumbnail {
+      height: 14rem;
+      max-width: 100%;
+      object-fit: fill;
+    }
+
+    .recipe-description {
+      padding: 0.5rem 1rem;
+    }
+  }
+}
