@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 
+import SEO from "../components/Seo"
 import Layout from "../components/Layout"
 
 import "../styles/recipe-template.scss"
@@ -11,6 +12,8 @@ export default ({ data }) => {
 
   return (
     <Layout>
+      <SEO title={recipe.frontmatter.title} />
+
       <div className="recipe-page-container">
         <Img
           className="recipe-image"
