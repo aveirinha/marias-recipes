@@ -1,18 +1,28 @@
+$card-radius: 6px;
+
 .recipe-cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  grid-gap: 2rem;
+  grid-gap: 2.25rem;
   align-items: stretch;
 
   .recipe-card {
-    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0px 0 4px rgba(0, 0, 0, 0.03);
     text-decoration: none;
     color: inherit;
+    border-radius: $card-radius;
+    transition: all 300ms ease;
+
+    &:hover {
+      box-shadow: 0 2px 0 4px rgba(0, 0, 0, 0.08);
+      transform: translate3d(0px, -2px, 0px);
+    }
 
     .recipe-thumbnail {
       height: 14rem;
       max-width: 100%;
       object-fit: fill;
+      border-radius: $card-radius $card-radius 0 0;
     }
 
     .recipe-description {

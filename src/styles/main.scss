@@ -9,7 +9,7 @@ body {
 }
 
 .font-header {
-  font-family: "Lora", serif;
+  font-family: georgia, "Lora", serif;
 }
 
 .container {
@@ -18,4 +18,14 @@ body {
   margin: 0 auto;
   padding: 1rem;
   box-sizing: border-box;
+
+  &.main {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+hr {
+  border: none;
+  border-top: 2px solid rgba(0, 0, 0, 0.15);
 }
