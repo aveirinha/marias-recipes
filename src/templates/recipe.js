@@ -12,27 +12,32 @@ export default ({ data }) => {
   return (
     <Layout>
       <div className="recipe-page-container">
-        <div className="recipe-image-container">
-          <Img
-            className="recipe-image"
-            sizes={recipe.frontmatter.image.childImageSharp.sizes}
-          />
-        </div>
+        <Img
+          className="recipe-image"
+          sizes={recipe.frontmatter.image.childImageSharp.sizes}
+        />
 
         <div className="container">
           <div className="recipe-content-container">
             <div className="recipe-details">
-              <h1>{recipe.frontmatter.title}</h1>
+              <h1 className="font-header">{recipe.frontmatter.title}</h1>
 
-              <h4 style={{ color: "rgb(165, 164, 164)", fontSize: "0.8em" }}>
-                {recipe.frontmatter.date} - {recipe.frontmatter.cookTime} cooking
-                time
+              <h4>
+                {recipe.frontmatter.date} — {recipe.frontmatter.cookTime}{" "}
+                cooking time
               </h4>
             </div>
 
             <div dangerouslySetInnerHTML={{ __html: recipe.html }} />
           </div>
         </div>
+      </div>
+
+      <div className="recipe-image-footer-container">
+        <Img
+          className="recipe-image-footer"
+          sizes={recipe.frontmatter.image.childImageSharp.sizes}
+        />
       </div>
     </Layout>
   )

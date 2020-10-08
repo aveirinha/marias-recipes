@@ -29,9 +29,27 @@
         margin: 0;
       }
 
+      h4 {
+        font-size: 1rem;
+        opacity: 0.6;
+      }
+
       :last-child {
         margin-left: auto;
       }
     }
+  }
+}
+
+.recipe-image-footer-container {
+  margin-top: 2rem;
+  overflow: hidden;
+
+  .recipe-image-footer {
+    width: calc(100% + 1rem);
+    margin: -1rem -2rem -2rem -1rem;
+    height: 4rem;
+    object-fit: cover;
+    filter: blur(2rem) saturate(3);
   }
 }
