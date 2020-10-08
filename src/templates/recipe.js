@@ -4,33 +4,33 @@ import Img from "gatsby-image"
 
 import Layout from "../components/Layout"
 
-import "../styles/post-template.scss"
+import "../styles/recipe-template.scss"
 
 export default ({ data }) => {
-  const post = data.markdownRemark
+  const recipe = data.markdownRemark
 
   return (
     <Layout>
-      <div className="post-page-container">
-        <div className="post-image-container">
+      <div className="recipe-page-container">
+        <div className="recipe-image-container">
           <Img
-            className="post-image"
-            sizes={post.frontmatter.image.childImageSharp.sizes}
+            className="recipe-image"
+            sizes={recipe.frontmatter.image.childImageSharp.sizes}
           />
         </div>
 
         <div className="container">
-          <div className="post-content-container">
-            <div className="post-details">
-              <h1>{post.frontmatter.title}</h1>
+          <div className="recipe-content-container">
+            <div className="recipe-details">
+              <h1>{recipe.frontmatter.title}</h1>
 
               <h4 style={{ color: "rgb(165, 164, 164)", fontSize: "0.8em" }}>
-                {post.frontmatter.date} - {post.frontmatter.cookTime} cooking
+                {recipe.frontmatter.date} - {recipe.frontmatter.cookTime} cooking
                 time
               </h4>
             </div>
 
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
+            <div dangerouslySetInnerHTML={{ __html: recipe.html }} />
           </div>
         </div>
       </div>
@@ -39,7 +39,7 @@ export default ({ data }) => {
 }
 
 export const query = graphql`
-  query PostQuery($slug: String!) {
+  query recipeQuery($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
