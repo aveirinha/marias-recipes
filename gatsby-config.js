@@ -31,7 +31,7 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
               maxWidth: 300,
-              name: `gatsby-starter-default`,
+              name: `Maria's Recipes`,
               short_name: `starter`,
               start_url: `/`,
               background_color: `#033F63`,
@@ -59,6 +59,5 @@ module.exports = {
         path: `${__dirname}/src/content/`,
       },
     },
-    // `gatsby-plugin-offline`,
   ],
 }
