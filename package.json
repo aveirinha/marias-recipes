@@ -9,6 +9,7 @@
     "gatsby-plugin-manifest": "^2.2.23",
     "gatsby-plugin-offline": "^3.0.21",
     "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sass": "^2.3.14",
     "gatsby-plugin-sharp": "^2.3.2",
     "gatsby-remark-copy-linked-files": "^2.1.30",
     "gatsby-remark-images": "^3.1.32",
@@ -16,6 +17,7 @@
     "gatsby-source-filesystem": "^2.1.33",
     "gatsby-transformer-remark": "^2.6.35",
     "gatsby-transformer-sharp": "^2.3.5",
+    "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -38,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/aveirinha/marias-recipes"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/aveirinha/marias-recipes/issues"
   }
 }

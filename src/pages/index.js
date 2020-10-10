@@ -8,9 +8,11 @@ import FeaturedRecipe from "../components/FeaturedRecipe"
 const IndexPage = ({ data }) => {
   return (
     <Layout>
-      <SEO title="Recipes by Maria" />
-      <FeaturedRecipe data={data.recipe} />
-      <RecipeCards data={data.recipe} />
+      <div className="container main">
+        <SEO title="Home" />
+        <FeaturedRecipe data={data.recipe} />
+        <RecipeCards data={data.recipe} />
+      </div>
     </Layout>
   )
 }

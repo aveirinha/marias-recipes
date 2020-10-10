@@ -1,0 +1,33 @@
+.footer-container {
+  padding: 3rem 0;
+  border-top: 2px solid rgba(0, 0, 0, 0.06);
+
+  .footer-content {
+    display: flex;
+    flex-direction: row;
+
+    .copyright {
+      color: rgba(0, 0, 0, 0.4);
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+    }
+
+    .social-icons-container {
+      margin-left: auto;
+
+      a {
+        opacity: 0.4;
+        transition: opacity 0.2s ease;
+        padding: 0 0.65rem;
+
+        &:hover,
+        &:focus {
+          opacity: 1;
+          outline: none;
+        }
+      }
+    }
+  }
+}
