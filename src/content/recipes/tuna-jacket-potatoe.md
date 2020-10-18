@@ -1,10 +1,12 @@
 ---
 title: "Tuna Jacket Potatoes"
 date: "18th October 2020"
-cookTime: "2hr 50 min"
+cookTime: "1hr 10 min"
 topic: "Tuna"
 image: ../../images/potato-with-tuna.jpg
 ---
+
+Quick lunch for 2 people!
 
 ## Ingredients
 
