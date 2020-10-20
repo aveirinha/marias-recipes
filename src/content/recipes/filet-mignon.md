@@ -10,7 +10,7 @@ image: "../../images/filet-mignon.jpg"
 
 - Unsalted butter
 - Olive oil
-- 450g mini portabello mushrooms
+- 450g mini portobello mushrooms
 - ½ Onion
 - 4 Garlic cloves
 - 1tbsp Thyme (or 1tsp dry thyme)
