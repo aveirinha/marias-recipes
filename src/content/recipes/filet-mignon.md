@@ -16,7 +16,7 @@ image: "../../images/filet-mignon.jpg"
 - 1tbsp Thyme (or 1tsp dry thyme)
 - 4 6oz Filet mignon steaks, about 1½" thick
 - 120ml Merlot
-- 360ml Beef broth
+- 360ml Beef stock
 - 120ml Double cream
 - Salt and Pepper to taste
 
@@ -42,7 +42,7 @@ image: "../../images/filet-mignon.jpg"
 7. Add 2tbsp butter and 1tbsp oil to the pan, wait for the butter to stop bubbling
 8. Place steaks in the pan, saute 3-5 mins each side, and transfer to plate
 9. Add 120ml Merlot to the pan, boil it down for 3 mins while scraping pan
-10. Add 360ml beef broth, boil for 5-6 mins
+10. Add 360ml beef stock, boil for 5-6 mins
 11. Add 120ml cream, boil for a few minutes to thicken the sauce
 12. Return the mushrooms and steaks to the pan and heat through for a few mins
 13. Season to taste with salt and pepper
