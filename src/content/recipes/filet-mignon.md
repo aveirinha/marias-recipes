@@ -1,7 +1,7 @@
 ---
 title: "Filet Mignon"
 date: "October 20, 2020"
-cookTime: "1 hour"
+cookTime: "30 mins"
 topic: "Beef"
 image: "../../images/filet-mignon.jpg"
 ---
