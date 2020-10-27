@@ -25,10 +25,15 @@ export default ({ data }) => {
             <div className="recipe-details">
               <h1 className="font-header">{recipe.frontmatter.title}</h1>
 
-              <h4>
-                {recipe.frontmatter.date} — {recipe.frontmatter.cookTime}{" "}
-                cooking time
-              </h4>
+              <div className="info">
+                <h4 className="cooking-time">
+                  ⌛ {recipe.frontmatter.cookTime} cooking time
+                </h4>
+
+                <h4>
+                  {recipe.frontmatter.author} 📆 {recipe.frontmatter.date}
+                </h4>
+              </div>
             </div>
 
             <div dangerouslySetInnerHTML={{ __html: recipe.html }} />
@@ -54,6 +59,7 @@ export const query = graphql`
         title
         date
         cookTime
+        author
         image {
           childImageSharp {
             sizes(maxWidth: 1920) {
