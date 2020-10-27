@@ -27,11 +27,18 @@ export default ({ data }) => {
 
               <div className="info">
                 <h4 className="cooking-time">
-                  ⌛ {recipe.frontmatter.cookTime} cooking time
+                  <span role="img" aria-label="timer">
+                    ⌛
+                  </span>{" "}
+                  {recipe.frontmatter.cookTime} cooking time
                 </h4>
 
                 <h4>
-                  {recipe.frontmatter.author} 📆 {recipe.frontmatter.date}
+                  {recipe.frontmatter.author}{" "}
+                  <span role="img" aria-label="calendar">
+                    📆
+                  </span>{" "}
+                  {recipe.frontmatter.date}
                 </h4>
               </div>
             </div>
