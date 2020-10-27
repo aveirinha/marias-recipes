@@ -4,6 +4,7 @@ date: "1 September 2020"
 cookTime: "1hr min"
 topic: "Dessert"
 image: ../../images/nesquik-cookies.jpg
+author: "Maria Aveiro"
 ---
 
 Makes ~20 cookies

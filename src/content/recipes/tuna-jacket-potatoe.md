@@ -4,6 +4,7 @@ date: "18th October 2020"
 cookTime: "1hr 10 min"
 topic: "Tuna"
 image: ../../images/potato-with-tuna.jpg
+author: "Maria Aveiro"
 ---
 
 Quick lunch for 2 people!

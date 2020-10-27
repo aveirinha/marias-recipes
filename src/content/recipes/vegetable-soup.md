@@ -4,6 +4,7 @@ date: "6th August 2020"
 cookTime: "1hr"
 topic: "Soup"
 image: ../../images/soup.jpg
+author: "Maria Aveiro"
 ---
 
 This soup can be made from fresh or frozen vegetables!
