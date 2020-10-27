@@ -4,6 +4,7 @@ date: "September 18, 2020"
 cookTime: "2hours"
 topic: "Beef"
 image: "../../images/stew.jpg"
+author: "Maria Aveiro"
 ---
 
 ## Ingredients

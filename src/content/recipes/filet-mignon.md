@@ -4,6 +4,7 @@ date: "October 20, 2020"
 cookTime: "30 mins"
 topic: "Beef"
 image: "../../images/filet-mignon.jpg"
+author: "James Vickery"
 ---
 
 ## Ingredients

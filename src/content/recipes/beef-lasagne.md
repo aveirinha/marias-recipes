@@ -4,6 +4,7 @@ date: "23rd July 2020"
 cookTime: "1hr 50 min"
 topic: "Beef"
 image: ../../images/lasagne.jpg
+author: "Maria Aveiro"
 ---
 
 Just a basic lil Lasagne!
