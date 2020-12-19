@@ -3,7 +3,7 @@ title: "Meatballs 2 ways"
 date: "13th December 2020"
 cookTime: "1hr/1hr 15min"
 topic: "Meat"
-image: ../../images/meatballs.jpg
+image: ../../images/meatballs2.jpeg
 author: "Maria Aveiro"
 ---
 
