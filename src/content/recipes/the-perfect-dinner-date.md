@@ -59,6 +59,6 @@ Perfect Meal for 2!
 1. Season the fillets with salt and pepper.
 2. Heat up some olive oil and the butter in a frying pan.
 3. Place the fillets skin down on the frying pan and cook for 3 minutes. Turn them and cook for another 2 minutes.
-
+4. Sprinkle chives over it and serve while hot.
 
 Enjoy!
