@@ -1,6 +1,6 @@
 ---
 title: "Tuna Jacket Potatoes"
-date: "18th October 2020"
+date: "2020-10-18"
 cookTime: "1hr 10 min"
 topic: "Tuna"
 image: ../../images/potato-with-tuna.jpg

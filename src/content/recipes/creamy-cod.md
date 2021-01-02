@@ -1,6 +1,6 @@
 ---
 title: "Creamy Salted Cod"
-date: "1st January 2021"
+date: "2021-01-01"
 cookTime: "2 hours"
 topic: "Fish"
 image: ../../images/creamy-cod.jpeg

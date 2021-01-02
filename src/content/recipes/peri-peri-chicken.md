@@ -1,6 +1,6 @@
 ---
 title: "Peri Peri Chicken"
-date: "8th August 2020"
+date: "2020-08-08"
 cookTime: "2hr 15min"
 topic: "Chicken"
 image: ../../images/peri-peri.jpg

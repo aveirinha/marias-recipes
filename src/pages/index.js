@@ -33,7 +33,7 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date
+            date(formatString: "Do MMMM, YYYY")
             cookTime
             topic
             image {

@@ -1,6 +1,6 @@
 ---
 title: "Red Paprika Paste"
-date: "September 28, 2020"
+date: "2020-09-28"
 cookTime: "1 hour"
 topic: "Seasoning"
 image: "../../images/red-paprika.jpg"

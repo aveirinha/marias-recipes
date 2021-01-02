@@ -1,6 +1,6 @@
 ---
 title: "Vegetable Soup"
-date: "6th August 2020"
+date: "2020-08-06"
 cookTime: "1hr"
 topic: "Soup"
 image: ../../images/soup.jpg

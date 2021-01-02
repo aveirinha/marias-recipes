@@ -1,6 +1,6 @@
 ---
 title: "The Perfect Dinner Date"
-date: "13th December 2020"
+date: "2020-12-13"
 cookTime: "2hr 15min"
 topic: "Fish"
 image: ../../images/dinner-date.jpeg
