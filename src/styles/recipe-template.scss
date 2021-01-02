@@ -16,8 +16,10 @@
       background: white;
       border-radius: 16px;
       box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.07);
-      padding: 1.25rem 2.5rem 1.5rem 2.5rem;
+      padding: 1.25rem calc(1.85vw + 0.75rem);
+      padding-bottom: 1.5rem;
       margin: -3rem 0 2rem 0;
+      box-sizing: border-box;
       z-index: 2;
       display: flex;
       flex-direction: row;
@@ -41,11 +43,25 @@
         opacity: 0.7;
       }
 
+      .title-info {
+        h1 {
+          line-height: 1.2;
+          letter-spacing: -1px;
+        }
+      }
+
       .info {
         margin-left: auto;
         display: flex;
         flex-direction: column;
         align-items: flex-end;
+        padding-left: 2rem;
+
+        @media only screen and (max-width: 550px) {
+          padding-left: 0;
+          margin-left: 0;
+          align-items: flex-start;
+        }
 
         .author {
           font-weight: bold;
