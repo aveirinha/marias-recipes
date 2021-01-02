@@ -3,7 +3,7 @@ title: "Creamy Salted Cod"
 date: "1st January 2021"
 cookTime: "2 hours"
 topic: "Fish"
-image: ../../images/creamy-cod.jpg
+image: ../../images/creamy-cod.jpeg
 author: "Maria Aveiro"
 ---
 
