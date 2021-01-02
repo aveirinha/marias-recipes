@@ -32,10 +32,10 @@ module.exports = {
             options: {
               maxWidth: 300,
               name: `Maria's Recipes`,
-              short_name: `starter`,
+              short_name: `Maria's Recipes`,
               start_url: `/`,
-              background_color: `#033F63`,
-              theme_color: `#033F63`,
+              background_color: `#ffffff`,
+              theme_color: `#333333`,
               display: `minimal-ui`,
               icon: `src/images/logo@2x.png`,
             },
