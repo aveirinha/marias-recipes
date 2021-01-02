@@ -3,6 +3,14 @@
   "description": "A place to keep recipes so I don't forget them",
   "version": "0.1.0",
   "author": "Maria Aveiro, James Vickery",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
   "dependencies": {
     "gatsby": "^2.16.1",
     "gatsby-image": "^2.2.29",
@@ -30,14 +38,6 @@
     "gatsby"
   ],
   "license": "MIT",
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/aveirinha/marias-recipes"

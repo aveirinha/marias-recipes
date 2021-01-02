@@ -1,6 +1,6 @@
 ---
 title: "Lasagne"
-date: "23rd July 2020"
+date: "2020-07-23"
 cookTime: "1hr 50 min"
 topic: "Beef"
 image: ../../images/lasagne.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Nesquik Cookies"
-date: "1 September 2020"
+date: "2020-09-01"
 cookTime: "1hr min"
 topic: "Dessert"
 image: ../../images/nesquik-cookies.jpg

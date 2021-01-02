@@ -1,6 +1,6 @@
 ---
 title: "Meatballs 2 ways"
-date: "13th December 2020"
+date: "2020-12-13"
 cookTime: "1hr/1hr 15min"
 topic: "Meat"
 image: ../../images/meatballs2.jpeg

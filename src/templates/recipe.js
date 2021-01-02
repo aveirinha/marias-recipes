@@ -23,10 +23,13 @@ export default ({ data }) => {
         <div className="container">
           <div className="recipe-content-container">
             <div className="recipe-details">
-              <h1 className="font-header">{recipe.frontmatter.title}</h1>
+              <div className="title-info">
+                <h1 className="font-header">{recipe.frontmatter.title}</h1>
+                <h3>{recipe.frontmatter.topic}</h3>
+              </div>
 
               <div className="info">
-                <h4 className="cooking-time">
+                <h4>
                   <span role="img" aria-label="timer">
                     ⌛
                   </span>{" "}
@@ -34,12 +37,13 @@ export default ({ data }) => {
                 </h4>
 
                 <h4>
-                  {recipe.frontmatter.author}{" "}
                   <span role="img" aria-label="calendar">
                     📆
                   </span>{" "}
                   {recipe.frontmatter.date}
                 </h4>
+
+                <h4 className="author">{recipe.frontmatter.author}</h4>
               </div>
             </div>
 
@@ -64,12 +68,13 @@ export const query = graphql`
       html
       frontmatter {
         title
-        date
+        topic
+        date(formatString: "Do MMMM, YYYY")
         cookTime
         author
         image {
           childImageSharp {
-            sizes(maxWidth: 1920) {
+            sizes(maxWidth: 2880) {
               ...GatsbyImageSharpSizes
             }
           }

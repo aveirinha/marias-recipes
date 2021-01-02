@@ -1,6 +1,6 @@
 ---
 title: "Banoffee"
-date: "October 30, 2020"
+date: "2020-10-30"
 cookTime: "30mins (plus chilling time)"
 topic: "Dessert"
 image: "../../images/banoffee.jpg"

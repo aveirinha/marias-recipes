@@ -1,6 +1,6 @@
 ---
 title: "Guinness Stew"
-date: "September 18, 2020"
+date: "2020-09-18"
 cookTime: "2hours"
 topic: "Beef"
 image: "../../images/stew.jpg"

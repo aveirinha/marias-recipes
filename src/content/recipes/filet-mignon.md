@@ -1,6 +1,6 @@
 ---
 title: "Filet Mignon"
-date: "October 20, 2020"
+date: "2020-10-20"
 cookTime: "30 mins"
 topic: "Beef"
 image: "../../images/filet-mignon.jpg"
