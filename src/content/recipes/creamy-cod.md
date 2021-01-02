@@ -14,7 +14,7 @@ Bacalhau com natas!
 - 5 medium potatoes
 - 1 onion
 - 3 garlic cloves
-- 200g shredded dry salted cod - [Like this](https://www.tesco.com/groceries/en-GB/products/305041317)
+- 200g dry salted cod - [Like this](https://www.tesco.com/groceries/en-GB/products/305041317)
 - Salt
 - Pepper
 - Olive oil
