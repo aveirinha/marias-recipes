@@ -16,10 +16,9 @@ Enough for 24 tarts!
 - 2 cinnamon sticks
 - 200-300g caster sugar (depending on how sweet you like them)
 - 100g plain flour
-- 2 yolks (3 if not very yellow)
-- 6-8 medium eggs
+- 2 yolks
+- 6-8 eggs (depending on size)
 - 2 sheets of puff pastry
-
 
 ## Method
 
