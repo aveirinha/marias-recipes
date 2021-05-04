@@ -3,7 +3,7 @@ title: "Beef Roast Dinner"
 date: "2021-02-21"
 cookTime: "3 hours"
 topic: "Beef"
-image: "../../images/roast-beef.jpg"
+image: "../../images/roast_beef.jpg"
 author: "Maria Aveiro"
 ---
 
