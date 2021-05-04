@@ -23,7 +23,10 @@ export const query = graphql`
   {
     recipe: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fileAbsolutePath: { regex: "/recipes/" } }
+      filter: {
+        fileAbsolutePath: { regex: "/recipes/" }
+        frontmatter: { draft: { eq: false } }
+      }
     ) {
       edges {
         node {

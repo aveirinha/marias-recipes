@@ -5,6 +5,7 @@ cookTime: "1hr 10 min"
 topic: "Tuna"
 image: ../../images/potato-with-tuna.jpg
 author: "Maria Aveiro"
+draft: false
 ---
 
 Quick lunch for 2 people!
@@ -23,9 +24,9 @@ Quick lunch for 2 people!
 
 0. Preheat oven at 200 degrees.
 1. Wash the potatoes, poke them with a fork and rub salt on the skin. Bake them in the over for an hour
-2. While the potatoes bake, drain the tuna and mash it using a fork. Season it with salt and pepper.
-3. Dice the shallot in small pieces and mix it with the tuna.
-4. Add mayo to taste and mix everything well with a fork.
-5. Take the potatoes from the over and cut them open. Add enough butter to taste and let it melt.
-6. Top up the potato with the tuna mayo mix. Chop some spring onions and add them on top.
-7. Serve while hot.
+1. While the potatoes bake, drain the tuna and mash it using a fork. Season it with salt and pepper.
+1. Dice the shallot in small pieces and mix it with the tuna.
+1. Add mayo to taste and mix everything well with a fork.
+1. Take the potatoes from the over and cut them open. Add enough butter to taste and let it melt.
+1. Top up the potato with the tuna mayo mix. Chop some spring onions and add them on top.
+1. Serve while hot.

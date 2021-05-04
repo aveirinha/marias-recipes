@@ -5,6 +5,7 @@ cookTime: "1 hour"
 topic: "Seasoning"
 image: "../../images/red-paprika.jpg"
 author: "Maria Aveiro"
+draft: false
 ---
 
 Perfect to season red meats for a roast or peri peri chicken!
