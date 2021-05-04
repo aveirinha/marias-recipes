@@ -3,7 +3,7 @@ title: "Beef Roast Dinner"
 date: "2021-02-21"
 cookTime: "3 hours"
 topic: "Beef"
-image: 
+image: "../../images/roast-beef.jpg"
 author: "Maria Aveiro"
 ---
 
@@ -20,3 +20,13 @@ Roast Dinner for 2!
 - Brocoli
 
 ## Method
+
+0. Pre-heat the oven at 250 degrees (or max temperature).
+1. Rub the Beef with some olive oil, salt and pepper.
+2. Peel the potatoes and cut them in halves. Parboil them for 10 minutes.
+3. Place them in a tray and season well with salt, pepper, olive oil and some beef dripping or butter.
+4. Slice the carrots in halves and the onions in quarters. Place them on a roasting tin or glass tray.
+5. Put the beef on top of the carrots and place it in the oven for 20 minutes. Put the potatoes in the oven as well.
+6. After 20 minutes, reduce the temperature to 200 degrees and leave for an extra 15 minutes for rare (add extra 10 minutes for medium or 20 minutes for well done). 
+7. Once timer is done, take the beef out, cover it with foil and let it rest for 30 min. Take the potatoes out, shake the tray and add some rosemary. Let them roast for an extra 30 to 40 minutes.
+

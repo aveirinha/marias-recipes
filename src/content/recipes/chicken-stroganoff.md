@@ -3,7 +3,7 @@ title: "Chicken Stroganoff"
 date: "2021-02-21"
 cookTime: "1 hour"
 topic: "Chicken"
-image: 
+image: "../../images/red-paprika.jpg"
 author: "Maria Aveiro"
 ---
 
