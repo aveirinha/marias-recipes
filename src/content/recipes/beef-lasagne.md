@@ -5,6 +5,7 @@ cookTime: "1hr 50 min"
 topic: "Beef"
 image: ../../images/lasagne.jpg
 author: "Maria Aveiro"
+draft: false
 ---
 
 Just a basic lil Lasagne!
@@ -39,12 +40,12 @@ Just a basic lil Lasagne!
 ## Method
 
 0. Preheat oven at 200 degrees.
-1. *Using the blade attachment* - Put the onion and garlic in the ChefBot and select the chop option.
-2. *Change to stirring attachment* - Add the Olive Oil, Salt, Pepper and Bay Leaf and set the ChefBot to **10 min/Temp. 80/Speed 1**.
-3. Add the Minced Beef and set the ChefBot to **15 min/Temp. 100/Speed 1**.
-4. Add the Salad Tomatoes chopped in quarters and the Chopped Tomatoes and set the ChefBot to **20 min/Temp. 90/Speed 1**.
-5. Pour the Mince in a separate bowl and set aside. Clean the ChefBot Pot.
-6. *Using the stirring attachment* - Add the the milk, flour, butter, salt, pepper and nutmeg and set the ChefBot to **9 min/Temp 90/Speed 3**.
-7. In a glass tray, pour some white sauce and some Bolognese. Cover with lasagne sheets. Repeat until the tray is 2/3 Full.
-8. Pour the remaining White Sauce and cover with grated mozzarella and pieces of the mozzarella for pizza.
-9. Bake for 30 min at 200 degrees. Serve hot.
+1. _Using the blade attachment_ - Put the onion and garlic in the ChefBot and select the chop option.
+1. _Change to stirring attachment_ - Add the Olive Oil, Salt, Pepper and Bay Leaf and set the ChefBot to **10 min/Temp. 80/Speed 1**.
+1. Add the Minced Beef and set the ChefBot to **15 min/Temp. 100/Speed 1**.
+1. Add the Salad Tomatoes chopped in quarters and the Chopped Tomatoes and set the ChefBot to **20 min/Temp. 90/Speed 1**.
+1. Pour the Mince in a separate bowl and set aside. Clean the ChefBot Pot.
+1. _Using the stirring attachment_ - Add the the milk, flour, butter, salt, pepper and nutmeg and set the ChefBot to **9 min/Temp 90/Speed 3**.
+1. In a glass tray, pour some white sauce and some Bolognese. Cover with lasagne sheets. Repeat until the tray is 2/3 Full.
+1. Pour the remaining White Sauce and cover with grated mozzarella and pieces of the mozzarella for pizza.
+1. Bake for 30 min at 200 degrees. Serve hot.

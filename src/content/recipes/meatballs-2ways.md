@@ -5,6 +5,7 @@ cookTime: "1hr/1hr 15min"
 topic: "Meat"
 image: ../../images/meatballs2.jpeg
 author: "Maria Aveiro"
+draft: false
 ---
 
 Meatballs that go well with pasta or on a meatball sub.
@@ -44,12 +45,12 @@ Meatballs that go well with pasta or on a meatball sub.
 
 0. Preheat oven at 200 degrees.
 1. In a large bowl, place both slices of bread and cover with the milk. Leave it until all the milk is absorbed.
-2. Add both types of mince, diced onion, egg yolks, parsley, salt and pepper and mix very well.
-3. Heat up olive oil in a large frying pan. Roll around 12-15 meatballs with your hands and gently fry them on all sides until browned.
-4. Place the meatballs in a tray covered in foil and place them in the oven for 15 minutes.
-5. Without washing the frying pan, add some more olive oil and the garlic. Fry it for 2 minutes.
-6. Add the passata and 50ml of water and  the chopped basil and season well. Let it simmer until thickened.
-7. Once the meatballs are cooked, add them back to the sauce and let it cook for 10 minutes.
+1. Add both types of mince, diced onion, egg yolks, parsley, salt and pepper and mix very well.
+1. Heat up olive oil in a large frying pan. Roll around 12-15 meatballs with your hands and gently fry them on all sides until browned.
+1. Place the meatballs in a tray covered in foil and place them in the oven for 15 minutes.
+1. Without washing the frying pan, add some more olive oil and the garlic. Fry it for 2 minutes.
+1. Add the passata and 50ml of water and the chopped basil and season well. Let it simmer until thickened.
+1. Once the meatballs are cooked, add them back to the sauce and let it cook for 10 minutes.
 
 ### Pasta way
 
@@ -62,7 +63,7 @@ Meatballs that go well with pasta or on a meatball sub.
 
 0. Preheat the grill at 180 degrees
 1. Cut the bread open and place it in a tray covered in foil. Drizzle some olive oil on the top half of the bread.
-2. Spread some of the marinara sauce on the bottom half of the bread, place the meatballs carefully and add the cheese slices on top.
-3. Place it under the grill for approximately 10 minutes. Check if more time is needed or the cheese has melted.
+1. Spread some of the marinara sauce on the bottom half of the bread, place the meatballs carefully and add the cheese slices on top.
+1. Place it under the grill for approximately 10 minutes. Check if more time is needed or the cheese has melted.
 
 Enjoy!

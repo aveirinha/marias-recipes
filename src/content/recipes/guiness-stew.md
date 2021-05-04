@@ -5,6 +5,7 @@ cookTime: "2hours"
 topic: "Beef"
 image: "../../images/stew.jpg"
 author: "Maria Aveiro"
+draft: false
 ---
 
 ## Ingredients

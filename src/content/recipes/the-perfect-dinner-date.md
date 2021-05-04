@@ -5,6 +5,7 @@ cookTime: "2hr 15min"
 topic: "Fish"
 image: ../../images/dinner-date.jpeg
 author: "Maria Aveiro"
+draft: false
 ---
 
 Perfect Meal for 2!
@@ -42,17 +43,17 @@ Perfect Meal for 2!
 
 0. Preheat the oven at 240 degrees.
 1. Peel the potatoes and chop them in thin sticks
-2. Let them soak in water for 30 minutes. Start preparing the green beans.
-3. Mix in a bowl the remaining ingredients for the fries. Drain the potatoes and mix them in.
-4. In a tray with foil, place the fries without stacking them.
-5. Place them in the oven for 35-40 minutes. Turn them halfway.
+1. Let them soak in water for 30 minutes. Start preparing the green beans.
+1. Mix in a bowl the remaining ingredients for the fries. Drain the potatoes and mix them in.
+1. In a tray with foil, place the fries without stacking them.
+1. Place them in the oven for 35-40 minutes. Turn them halfway.
 
 ### Green Beans
 
 0. Prepare a bowl with iced water.
 1. Trim all the green beans and wash them.
-2. Place them in boiling water for 3 minutes. Drain them and put them in the iced water to cool completely.
-3. Heat up some olive oil in a wok and add the green beans. Fry them for a 2 minutes and add the remaining ingredients.
+1. Place them in boiling water for 3 minutes. Drain them and put them in the iced water to cool completely.
+1. Heat up some olive oil in a wok and add the green beans. Fry them for a 2 minutes and add the remaining ingredients.
 
 ### Seabass
 

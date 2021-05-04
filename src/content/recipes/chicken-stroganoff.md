@@ -5,6 +5,7 @@ cookTime: "1 hour"
 topic: "Chicken"
 image: "../../images/red-paprika.jpg"
 author: "Maria Aveiro"
+draft: true
 ---
 
 Quick Dinner for 2!

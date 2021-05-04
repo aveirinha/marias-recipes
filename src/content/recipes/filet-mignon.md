@@ -5,6 +5,7 @@ cookTime: "30 mins"
 topic: "Beef"
 image: "../../images/filet-mignon.jpg"
 author: "James Vickery"
+draft: false
 ---
 
 ## Ingredients

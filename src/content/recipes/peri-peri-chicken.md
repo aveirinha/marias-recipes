@@ -5,6 +5,7 @@ cookTime: "2hr 15min"
 topic: "Chicken"
 image: ../../images/peri-peri.jpg
 author: "Maria Aveiro"
+draft: false
 ---
 
 This soup can be made from fresh or frozen vegetables!

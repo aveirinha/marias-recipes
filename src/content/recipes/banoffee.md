@@ -5,6 +5,7 @@ cookTime: "30mins (plus chilling time)"
 topic: "Dessert"
 image: "../../images/banoffee.jpg"
 author: "Paul Vickery"
+draft: false
 ---
 
 ## Ingredients
